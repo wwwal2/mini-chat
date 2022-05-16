@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-chat/static/css/main.3c11724f.css",
+    "main.js": "/mini-chat/static/js/main.e7fd09c5.js",
+    "index.html": "/mini-chat/index.html",
+    "main.3c11724f.css.map": "/mini-chat/static/css/main.3c11724f.css.map",
+    "main.e7fd09c5.js.map": "/mini-chat/static/js/main.e7fd09c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c11724f.css",
+    "static/js/main.e7fd09c5.js"
+  ]
+}
